@@ -1,5 +1,5 @@
 # Heart_disease_prediction-
-HEART DISEASE_PNG.jpg
+[HEART DISEASE_PNG.jpg](https://github.com/AlayandeJamal/Heart_disease_prediction-/blob/main/HEART%20DISEASE_PNG.jpg)
 
 ## Exploratory Data Analysis Report
 ## 1. Dataset Overview
