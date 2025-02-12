@@ -64,6 +64,6 @@ Feature Engineering:
 Create interaction terms or bin features like age into age groups.
 Explore one-hot encoding for categorical variables (cp, thal, slope) for machine learning models.
 ## 5. MODEL TRAINING
-Perform data preprocessing to handle outliers and scale features.
+Performed data preprocessing to handle outliers and scale features.
 Use feature importance techniques (e.g., correlation analysis or tree-based models) to finalize feature selection.
 Split the data into training and testing sets and proceed with model training using algorithms like Logistic Regression, Random Forest, or Gradient Boosting.
