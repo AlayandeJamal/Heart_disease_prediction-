@@ -1,5 +1,6 @@
 # Heart_disease_prediction-
-![Uploading HEART DISEASE_PNG.jpg…]()
+![Uploading image.png…]()
+
 
 ## Exploratory Data Analysis Report
 ## 1. Dataset Overview
